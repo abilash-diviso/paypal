@@ -20,8 +20,8 @@ tags:
 - Hypermedia
 - Getting Started
 - Billing
-created: "2018-03-24"
-modified: "2018-03-24"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/api-stack-providers/paypal/master/_listings/paypal/apis.yaml
 specificationVersion: "0.14"
 apis:
