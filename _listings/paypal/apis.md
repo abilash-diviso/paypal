@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal
 x-kinRank: "10"
 x-alexaRank: "71"
 tags: PayPal
-created: "2018-07-20"
-modified: "2018-07-20"
+created: "2018-07-21"
+modified: "2018-07-21"
 url: https://raw.githubusercontent.com/api-stack-providers/paypal/master/_listings/paypal/apis.md
 specificationVersion: "0.14"
 apis:
